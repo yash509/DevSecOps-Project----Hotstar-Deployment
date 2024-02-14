@@ -32,6 +32,7 @@ data "aws_subnets" "public" {
     values = [data.aws_vpc.default.id]
   }
 }
+
 # EKS Cluster
 resource "aws_eks_cluster" "example" {
   name     = "Hotstar-Cluster" # This name can be changed
