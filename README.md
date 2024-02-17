@@ -1,4 +1,4 @@
-# DevSecOps-Project----Hoststar-Deployment
+# DevSecOps-Project----Hoststar-Deployment Architecture
 
 <div align="center">
 
